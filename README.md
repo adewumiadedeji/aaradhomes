@@ -1,4 +1,4 @@
-# pringo-vue
+# Nuxt-vue
 
 ## Build Setup
 
