@@ -1,0 +1,65 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "/Users/mac/Frontends/nodejs/aarad/pages/about.vue",
+    "chunkName": "pages/about",
+    "_name": "_d2c7206c"
+  },
+  {
+    "name": "blog-details",
+    "path": "/blog-details",
+    "component": "/Users/mac/Frontends/nodejs/aarad/pages/blog-details.vue",
+    "chunkName": "pages/blog-details",
+    "_name": "_3f73e66a"
+  },
+  {
+    "name": "blog-left-sidebar",
+    "path": "/blog-left-sidebar",
+    "component": "/Users/mac/Frontends/nodejs/aarad/pages/blog-left-sidebar.vue",
+    "chunkName": "pages/blog-left-sidebar",
+    "_name": "_32c3769e"
+  },
+  {
+    "name": "blog-right-sidebar",
+    "path": "/blog-right-sidebar",
+    "component": "/Users/mac/Frontends/nodejs/aarad/pages/blog-right-sidebar.vue",
+    "chunkName": "pages/blog-right-sidebar",
+    "_name": "_97337f5a"
+  },
+  {
+    "name": "case-details",
+    "path": "/case-details",
+    "component": "/Users/mac/Frontends/nodejs/aarad/pages/case-details.vue",
+    "chunkName": "pages/case-details",
+    "_name": "_21ed6610"
+  },
+  {
+    "name": "contact",
+    "path": "/contact",
+    "component": "/Users/mac/Frontends/nodejs/aarad/pages/contact.vue",
+    "chunkName": "pages/contact",
+    "_name": "_63bc799d"
+  },
+  {
+    "name": "service-details",
+    "path": "/service-details",
+    "component": "/Users/mac/Frontends/nodejs/aarad/pages/service-details.vue",
+    "chunkName": "pages/service-details",
+    "_name": "_2197bab2"
+  },
+  {
+    "name": "team",
+    "path": "/team",
+    "component": "/Users/mac/Frontends/nodejs/aarad/pages/team.vue",
+    "chunkName": "pages/team",
+    "_name": "_280b3db0"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/mac/Frontends/nodejs/aarad/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_93576ae2"
+  }
+]
